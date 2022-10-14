@@ -1,0 +1,12 @@
+Delimiter byte 0 is: 255
+Delimiter byte 1 is: 170
+Delimiter byte 2 is: 17
+Checksum is: 68
+
+Chunk: 0 at offset: 0
+    Packet: 0
+        Data before swizzle -> B0: 123, B1: 222, B2: 113
+        Swizzle: XZY
+        Data after swizzle -> X: 123, Y: 113, Z: 222
+    Chunk Average X: 123.00, Average Y: 113.00, Average Z: 222.00
+
